@@ -1,17 +1,18 @@
 # credits
 
 - Youtube Sensei's
-clearcode
-AdamCYounis
-CDcodes
+- clearcode
+- AdamCYounis
+- CDcodes
 
 
-- Artist
-Dalian Grant 
-Ryan Butler
+# Artist 
+- Dalian Grant
+- Ryan Butler
 
-- Programmers
-Ryan Butler
+
+# Programmers
+- Ryan Butler
 
 #	requirements
 	- macOS
